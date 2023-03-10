@@ -1,3 +1,3 @@
 # PrimeirosPassosJPA
  
-tentando aprender essa desgraça kkkkkkkkkkkkk (brincadeira)
+o importante é caminhar e não parar. Um dia ainda dominarei JPA.....
